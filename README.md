@@ -1,4 +1,4 @@
-# LiveMeet 🤝
+# LiveMeet
 
 A full-stack real-time meeting analyzer that uses an LLM to extract 
 structured insights from meeting transcripts and broadcasts them live 
