@@ -11,7 +11,8 @@ to the frontend in under 1 second.
 
 
 ### Backend Architecture
-![LiveMeet Architecture](https://i.imgur.com/placeholder.png)
+<img width="962" height="556" alt="image" src="https://github.com/user-attachments/assets/0bc49024-e399-4531-936e-1a1e5d169b7c" />
+
 
 ## Tech Stack
 
